@@ -7,7 +7,7 @@ This Python script utilizes OpenAI's GPT-3 API to analyze the sentiment of socia
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/social-media-sentiment-analysis.git
+    git clone https://github.com/Adithianps04/sentiment_analyzer.git
     ```
 
 2. **Navigate to the project directory:**
