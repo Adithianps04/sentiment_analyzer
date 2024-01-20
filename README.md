@@ -13,7 +13,7 @@ This Python script utilizes OpenAI's GPT-3 API to analyze the sentiment of socia
 2. **Navigate to the project directory:**
 
     ```bash
-    cd social-media-sentiment-analysis
+    cd entiment_analyzer
     ```
 
 3. **Install the required dependencies:**
