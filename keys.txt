@@ -1,0 +1,2 @@
+OPENAI_API_KEY=YOUR_API_KEY
+SOCIAL_MEDIA_POST_URL=https://example.com/social_media_post
